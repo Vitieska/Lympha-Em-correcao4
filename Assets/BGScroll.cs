@@ -7,7 +7,6 @@ public class BGScroll : MonoBehaviour
     public float speed = 4f;
     private Vector3 StartPosition;
 
-
     private void Start()
     {
         {
